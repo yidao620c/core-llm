@@ -1,3 +1,3 @@
-﻿## LLM开发
+﻿## LLM开发技术
 
-紧跟最新大语言模型开发技术，Agent、MCP协议、RAG、DeepSeek
+大语言模型开发技术，Prompt、RAG、Agent、MCP协议、DeepSeek
